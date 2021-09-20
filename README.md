@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Pentesting and Front-end
 - 📫 How to reach me: josivaldojr365@gmail.com
-- ⚡ Fun fact: ?
 
 <div>
   <a href="https://github.com/JosivaldoS">
