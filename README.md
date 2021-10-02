@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-- 🌱 I’m currently learning Pentesting and Front-end
+- 🌱 I’m currently learning Django and Front-end
 - 📫 How to reach me: josivaldojr365@gmail.com
 
 <div>
