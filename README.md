@@ -1,6 +1,6 @@
-## Hello! 👋
+## Opa! :)
 
-- 🌱 I’m currently learning Django and Front-end
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: josivaldojr365@gmail.com
 
 <div>
