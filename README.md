@@ -1,6 +1,6 @@
 ## Opa! :)
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning HTML5 e CSS3
 - 📫 How to reach me: josivaldojr365@gmail.com
 
 <div>
