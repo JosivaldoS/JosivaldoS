@@ -1,7 +1,7 @@
 ## Opa! :)
 
 - 🌱 I’m currently learning HTML5 e CSS3
-- 📫 How to reach me: josivaldojr365@gmail.com
+- 📫 How to reach me: [My site](https://devjuninho.online/)
 
 <div>
   <a href="https://github.com/JosivaldoS">
