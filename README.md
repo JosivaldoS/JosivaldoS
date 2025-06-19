@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Me chamo Josivaldo Soares</h1>
+<h1 align="center">Olá 👋, Me chamo Josivaldo Júnior</h1>
 <h3 align="center">Desenvolvedor Frontend</h3>
 
 - 🌱 I’m currently learning **React**
