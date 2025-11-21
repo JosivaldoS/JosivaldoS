@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Josivaldo Júnior</h1>
 <h3 align="center">Desenvolvedor Frontend</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **React**
 
